@@ -13,4 +13,17 @@ finding inspiration in the incredible universe of open source content 🌐.
 Join me on my journey of learning and discovery! 🌱✨
 ```
 
+### Quieres ver mis trabajos? :P
 
+```
+https://llora-con-ryanair.vercel.app/
+```
+
+```
+https://play-worlds.vercel.app/
+```
+
+### y CEO de LuxuryHomies
+```
+https://luxuryhomies.com/
+```

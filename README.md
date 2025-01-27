@@ -18,8 +18,3 @@ Join me on my journey of learning and discovery! 🌱✨
 ***CalculaHoras [LLoraconRyanair](https://llora-con-ryanair.vercel.app/)***
 
 ***TranslateWords [PlayWorlds](https://play-worlds.vercel.app/)***
-
-
-## CEO de LuxuryHomies
-[Luxury Homies](https://luxuryhomies.com/)
-
